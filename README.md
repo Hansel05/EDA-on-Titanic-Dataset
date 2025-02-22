@@ -46,7 +46,7 @@ Visualized all features to understand distributions.
 
 # Tools and Technologies
 - Programming language: Python
-- Libraries Used: Pandas, NumPy, Matplotlib, Seaborn, Sklearn
+- Libraries Used: Pandas, NumPy, Matplotlib, Seaborn
 
 # Future Improvements
 - Perform feature engineering to extract more insights.
